@@ -2,8 +2,8 @@
 
 Welcome to the Dysfunctional Python Interpreter, a unique and challenging way to run your Python scripts!
 
-Noobs use ``` python script.py``` while 
-REAL programmers use ``` dyspython script.py``` &nbsp;😎
+Noobs use ```python script.py``` while 
+REAL programmers use ```dyspython script.py``` &nbsp;😎
 
 ## Features
 
